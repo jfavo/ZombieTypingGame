@@ -1,4 +1,9 @@
 
 # exclude
-/.vscode
-/__pycache__
+
+# directories
+.vscode/
+__pycache__/
+
+# files
+.playerStats
